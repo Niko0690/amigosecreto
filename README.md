@@ -1,6 +1,7 @@
 <h1 align="center"> Juego Amigo Secreto </h1>
-Challenge Curso Alura
-![Portada]() 
+<h2 align= "center">Challenge Curso Alura </h2>
+
+![Portada](./assets/Juego.png) 
 
 
 ## :hammer:Funcionalidades del proyecto
